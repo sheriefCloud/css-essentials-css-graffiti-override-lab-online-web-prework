@@ -18,3 +18,12 @@
 #wall .tag-1 {
   display: none;
 }
+/*
+W
+Failures:
+  1) css/cleanup.css has overrides added
+     Failure/Error: expect(size).to be > minimum_bytes, "You should hav
+e at least 300 bytes worth of updates to css/cleanup.css"
+       You should have at least 300 bytes worth of updates to css/clean
+up.css
+     # ./spec/css_graffiti_override_s*/
