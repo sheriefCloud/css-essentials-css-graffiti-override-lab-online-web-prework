@@ -3,7 +3,7 @@
 }
 
 /* write your override styles here */
-#wall #tag-2 {
+#tag-2 #wall {
   display: none;
 }
 
